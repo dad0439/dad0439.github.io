@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://dad0439.github.io/tag/nlp/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://dad0439.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-10-30T08:01:34+09:00</updated>
+  <id>https://dad0439.github.io/tag/nlp/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">All About AI | </title>
+  
+
+  
+    <subtitle>AI 관한 모든 것 기록하다</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">NLP는 무엇인가</title>
+      <link href="https://dad0439.github.io/nlp01" rel="alternate" type="text/html" title="NLP는 무엇인가" />
+      <published>2021-10-28T10:00:00+09:00</published>
+      <updated>2021-10-28T10:00:00+09:00</updated>
+      <id>https://dad0439.github.io/nlp01</id>
+      <content type="html" xml:base="https://dad0439.github.io/nlp01">&lt;h1 id=&quot;자연어-처리의-대한-모든-것-nlp&quot;&gt;자연어 처리의 대한 모든 것 NLP&lt;/h1&gt;
+
+&lt;p&gt;NLP에 대해 하나씩 알아봅시다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="nlp" />
+      
+
+      
+        <summary type="html">자연어 처리의 대한 모든 것 NLP</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

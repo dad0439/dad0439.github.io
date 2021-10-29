@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://dad0439.github.io/tag/ai/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://dad0439.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-10-30T08:01:34+09:00</updated>
+  <id>https://dad0439.github.io/tag/ai/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">All About AI | </title>
+  
+
+  
+    <subtitle>AI 관한 모든 것 기록하다</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Test - 인공지능이란</title>
+      <link href="https://dad0439.github.io/ai01" rel="alternate" type="text/html" title="Test - 인공지능이란" />
+      <published>2021-10-28T12:00:00+09:00</published>
+      <updated>2021-10-28T12:00:00+09:00</updated>
+      <id>https://dad0439.github.io/ai01</id>
+      <content type="html" xml:base="https://dad0439.github.io/ai01">&lt;h1 id=&quot;지금-우리는-인공지능-시대에-살고-있다&quot;&gt;지금 우리는 인공지능 시대에 살고 있다.&lt;/h1&gt;
+
+&lt;p&gt;인공지능이란 무엇인가?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;인공지능, 머신러닝, 딥러닝 용어가 너무 많다.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="ai" />
+      
+
+      
+        <summary type="html">지금 우리는 인공지능 시대에 살고 있다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

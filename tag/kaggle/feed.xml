@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://dad0439.github.io/tag/kaggle/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://dad0439.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-10-30T08:01:34+09:00</updated>
+  <id>https://dad0439.github.io/tag/kaggle/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">All About AI | </title>
+  
+
+  
+    <subtitle>AI 관한 모든 것 기록하다</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Test - Kaggle Competition</title>
+      <link href="https://dad0439.github.io/kaggle01" rel="alternate" type="text/html" title="Test - Kaggle Competition" />
+      <published>2021-10-28T13:00:00+09:00</published>
+      <updated>2021-10-28T13:00:00+09:00</updated>
+      <id>https://dad0439.github.io/kaggle01</id>
+      <content type="html" xml:base="https://dad0439.github.io/kaggle01">&lt;h1 id=&quot;kaggle-하나씩-정복해보기&quot;&gt;Kaggle 하나씩 정복해보기&lt;/h1&gt;
+
+&lt;p&gt;Kaggle은 무엇일까요?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;함께 알아봅시다.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="kaggle" />
+      
+
+      
+        <summary type="html">Kaggle 하나씩 정복해보기</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

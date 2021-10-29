@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="https://dad0439.github.io/author/sherlocky/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://dad0439.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-10-30T08:01:34+09:00</updated>
+  <id>https://dad0439.github.io/author/sherlocky/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">All About AI | </title>
+  
+
+  
+    <subtitle>AI 관한 모든 것 기록하다</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Test - Kaggle Competition</title>
+      <link href="https://dad0439.github.io/kaggle01" rel="alternate" type="text/html" title="Test - Kaggle Competition" />
+      <published>2021-10-28T13:00:00+09:00</published>
+      <updated>2021-10-28T13:00:00+09:00</updated>
+      <id>https://dad0439.github.io/kaggle01</id>
+      <content type="html" xml:base="https://dad0439.github.io/kaggle01">&lt;h1 id=&quot;kaggle-하나씩-정복해보기&quot;&gt;Kaggle 하나씩 정복해보기&lt;/h1&gt;
+
+&lt;p&gt;Kaggle은 무엇일까요?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;함께 알아봅시다.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="kaggle" />
+      
+
+      
+        <summary type="html">Kaggle 하나씩 정복해보기</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Test - 인공지능이란</title>
+      <link href="https://dad0439.github.io/ai01" rel="alternate" type="text/html" title="Test - 인공지능이란" />
+      <published>2021-10-28T12:00:00+09:00</published>
+      <updated>2021-10-28T12:00:00+09:00</updated>
+      <id>https://dad0439.github.io/ai01</id>
+      <content type="html" xml:base="https://dad0439.github.io/ai01">&lt;h1 id=&quot;지금-우리는-인공지능-시대에-살고-있다&quot;&gt;지금 우리는 인공지능 시대에 살고 있다.&lt;/h1&gt;
+
+&lt;p&gt;인공지능이란 무엇인가?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;인공지능, 머신러닝, 딥러닝 용어가 너무 많다.&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="ai" />
+      
+
+      
+        <summary type="html">지금 우리는 인공지능 시대에 살고 있다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">NLP는 무엇인가</title>
+      <link href="https://dad0439.github.io/nlp01" rel="alternate" type="text/html" title="NLP는 무엇인가" />
+      <published>2021-10-28T10:00:00+09:00</published>
+      <updated>2021-10-28T10:00:00+09:00</updated>
+      <id>https://dad0439.github.io/nlp01</id>
+      <content type="html" xml:base="https://dad0439.github.io/nlp01">&lt;h1 id=&quot;자연어-처리의-대한-모든-것-nlp&quot;&gt;자연어 처리의 대한 모든 것 NLP&lt;/h1&gt;
+
+&lt;p&gt;NLP에 대해 하나씩 알아봅시다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Natural Language Processing&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="nlp" />
+      
+
+      
+        <summary type="html">자연어 처리의 대한 모든 것 NLP</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">책은 즐겁다</title>
+      <link href="https://dad0439.github.io/book01" rel="alternate" type="text/html" title="책은 즐겁다" />
+      <published>2021-10-28T10:00:00+09:00</published>
+      <updated>2021-10-28T10:00:00+09:00</updated>
+      <id>https://dad0439.github.io/book01</id>
+      <content type="html" xml:base="https://dad0439.github.io/book01">&lt;h1 id=&quot;책을-읽는다는-것은-무엇일까&quot;&gt;책을 읽는다는 것은 무엇일까?&lt;/h1&gt;
+
+&lt;p&gt;책을 인생의 보물로 여기고 계신가요?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;책을 어떻게 읽으면 좋을까요?&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="book" />
+      
+
+      
+        <summary type="html">책을 읽는다는 것은 무엇일까?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Test2 - Python 놀이터</title>
+      <link href="https://dad0439.github.io/python02" rel="alternate" type="text/html" title="Test2 - Python 놀이터" />
+      <published>2021-10-28T09:00:00+09:00</published>
+      <updated>2021-10-28T09:00:00+09:00</updated>
+      <id>https://dad0439.github.io/python02</id>
+      <content type="html" xml:base="https://dad0439.github.io/python02">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python01&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python02&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;파이썬-2번째-시간&quot;&gt;파이썬 2번째 시간&lt;/h1&gt;
+
+&lt;p&gt;안녕하세요. 이번 포스팅도 test이지만
+다양한 내용을 올려볼 예정입니다. 모든 tag마다 잘 나오겠지요?&lt;/p&gt;
+
+&lt;p&gt;오늘 확인할 내용&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;python class&lt;/li&gt;
+  &lt;li&gt;python fucntion&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;python&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    
+    &lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;__init__&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+        &lt;span class=&quot;bp&quot;&gt;self&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;df&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;pd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;read_csv&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;data&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;encoding&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'utf-8'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Test - Python으로 놀기</title>
+      <link href="https://dad0439.github.io/python01" rel="alternate" type="text/html" title="Test - Python으로 놀기" />
+      <published>2021-10-27T10:00:00+09:00</published>
+      <updated>2021-10-27T10:00:00+09:00</updated>
+      <id>https://dad0439.github.io/python01</id>
+      <content type="html" xml:base="https://dad0439.github.io/python01">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python01&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python02&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;파이썬-기술-블로그-정리-시작&quot;&gt;파이썬 기술 블로그 정리 시작&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;굉장히 재밌는 기술 블로그 포스팅을 시작할 예정입니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;지켜봐 주세요&lt;/code&gt;&lt;/p&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;pandas&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;as&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;np&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;array&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>Like Sherlock</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="python" />
+      
+
+      
+        <summary type="html">Python 강좌는 여러 절로 구성되어 있습니다. Python 강좌(1) - Python 기본 Python 강좌(2) - Python 제어문</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

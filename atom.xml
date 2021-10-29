@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>AI 관한 모든 것 기록하다</description>
+    <link>
+    https://dad0439.github.io</link>
+    
+      
+      <item>
+        <title>Test - Kaggle Competition</title>
+        
+          <description>&lt;h1 id=&quot;kaggle-하나씩-정복해보기&quot;&gt;Kaggle 하나씩 정복해보기&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Thu, 28 Oct 2021 13:00:00 +0900</pubDate>
+        <link>
+        https://dad0439.github.io/kaggle01</link>
+        <guid isPermaLink="true">https://dad0439.github.io/kaggle01</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Test - 인공지능이란</title>
+        
+          <description>&lt;h1 id=&quot;지금-우리는-인공지능-시대에-살고-있다&quot;&gt;지금 우리는 인공지능 시대에 살고 있다.&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Thu, 28 Oct 2021 12:00:00 +0900</pubDate>
+        <link>
+        https://dad0439.github.io/ai01</link>
+        <guid isPermaLink="true">https://dad0439.github.io/ai01</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>NLP는 무엇인가</title>
+        
+          <description>&lt;h1 id=&quot;자연어-처리의-대한-모든-것-nlp&quot;&gt;자연어 처리의 대한 모든 것 NLP&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Thu, 28 Oct 2021 10:00:00 +0900</pubDate>
+        <link>
+        https://dad0439.github.io/nlp01</link>
+        <guid isPermaLink="true">https://dad0439.github.io/nlp01</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>책은 즐겁다</title>
+        
+          <description>&lt;h1 id=&quot;책을-읽는다는-것은-무엇일까&quot;&gt;책을 읽는다는 것은 무엇일까?&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Thu, 28 Oct 2021 10:00:00 +0900</pubDate>
+        <link>
+        https://dad0439.github.io/book01</link>
+        <guid isPermaLink="true">https://dad0439.github.io/book01</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Test2 - Python 놀이터</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python01&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python02&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Thu, 28 Oct 2021 09:00:00 +0900</pubDate>
+        <link>
+        https://dad0439.github.io/python02</link>
+        <guid isPermaLink="true">https://dad0439.github.io/python02</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Test - Python으로 놀기</title>
+        
+          <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+&lt;ul class=&quot;table-of-contents-list&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;./python01&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./python02&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Wed, 27 Oct 2021 10:00:00 +0900</pubDate>
+        <link>
+        https://dad0439.github.io/python01</link>
+        <guid isPermaLink="true">https://dad0439.github.io/python01</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
